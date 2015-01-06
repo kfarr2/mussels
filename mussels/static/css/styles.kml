@@ -1,0 +1,1777 @@
+<StyleMap id="both_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="carb_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="carb_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/carb_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="non_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#non_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#non_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="non_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="non_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/non_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_artificial">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_artificial_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_artificial_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_artificial_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_artificial_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_artificial.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_natural">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_natural_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_natural_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_natural_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_natural_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_natural.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_other">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_other_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_other_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_other_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_other_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_other.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_plankton">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_plankton_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_plankton_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_plankton_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_plankton_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_plankton.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_rov">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_rov_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_rov_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_rov_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_rov_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_rov.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_scuba">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_scuba_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_scuba_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_scuba_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_scuba_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_scuba.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dpoly_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dpoly_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dpoly_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dpoly_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dpoly_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dpoly_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="dbug_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#dbug_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#dbug_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="dbug_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="dbug_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/dbug_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="both_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#both_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#both_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="both_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="both_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/both_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="carb_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#carb_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#carb_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="pending_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#pending_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#pending_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="pending_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="pending_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/pending_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<StyleMap id="unknown_unspecified">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#unknown_unspecified_norm</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#unknown_unspecified_high</styleUrl>
+	</Pair>
+</StyleMap>
+
+<Style id="unknown_unspecified_norm">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+<Style id="unknown_unspecified_high">
+	<IconStyle>
+		<scale>10</scale>
+		<Icon>
+			<href>http://circe.rc.pdx.edu:8000/static/img/kml_icons/unknown_unspecified.png</href>
+		</Icon>
+		<hotSpot x="75" y="75" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff00aaff</color>
+	</LabelStyle>
+</Style>
+
+
